@@ -1,5 +1,5 @@
 module.exports = {
-  base: '0524_ts_study/', /* 基础虚拟路径 */
+  base: '/0524_ts_study/', /* 基础虚拟路径 */
   dest: 'docs/dist', /* 打包文件基础路径, 在命令所在目录下 */
   title: 'TypeScript 快速上手', // 标题
   description: '尚硅谷前端研究院', // 标题下的描述
